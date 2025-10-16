@@ -5,4 +5,4 @@ This project explores links between intergenerational educational trajectories (
 - Key findings: advantaged trajectories (e.g., stably high, upwardly mobile) correlate with lower depressive risk; household wealth is the most consistent mediator (explaining 24–34% of the link in the U.S.).
 
 # Requirement
-R version 4.2 or higher.
+- R version 4.2 or higher.
